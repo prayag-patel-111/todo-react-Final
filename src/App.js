@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Todo />
-      <p>Hi</p>
+      <p>Hi ...............</p>
     </div>
   );
 }
